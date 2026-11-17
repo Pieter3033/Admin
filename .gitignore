@@ -1,0 +1,26 @@
+# Default-deny source snapshot. Review every new file before adding it.
+# This excludes credentials, configuration, scripts, reports, logs and backups.
+*
+!/.gitignore
+!/README.md
+!/Hardware Provision.sql
+!/Inspect Unit.sql
+!/Jobs.sql
+!/Logout.sql
+!/Reload_checklist.sql
+!/add.sql
+!/add_f.sql
+!/add_user_func.sql
+!/admin.css
+!/admin.js
+!/admin.sql
+!/background_2.jpg
+!/delete_user.sql
+!/delete_user_func.sql
+!/favicon.png
+!/logowhite_3.png
+!/reset_password.sql
+!/reset_password_func.sql
+!/srf.sql
+!/update_user_type.sql
+!/update_user_type_func.sql
